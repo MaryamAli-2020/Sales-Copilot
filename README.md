@@ -18,13 +18,10 @@ Sales Copilot is an innovative AI-powered tool designed to streamline the sales 
 
 ## ?? Technologies Used
 
--   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
--   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
--   ![CrewAI](https://img.shields.io/badge/-CrewAI-blueviolet)
+-   ![Firecrawl](https://img.shields.io/badge/Firecrawl-red)
+-   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blueviolet)
 -   ![LangChain](https://img.shields.io/badge/-LangChain-orange)
 -   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
--   SerperDevTool (for web search)
--   ScrapeWebsiteTool (for website content extraction)
 
 ## ?? Installation & Setup
 
