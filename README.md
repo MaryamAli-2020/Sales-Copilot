@@ -1,6 +1,3 @@
-Okay, here is the generated `README.md` content based on your inputs.
-
-```markdown
 # Sales Copilot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -110,21 +107,3 @@ This project is open-source and licensed under the MIT License. See the [LICENSE
 
 You can find the full source code and contribute to the project on GitHub:
 [https://github.com/MaryamAli-2020/Sales-Copilot](https://github.com/MaryamAli-2020/Sales-Copilot)
-```
-
-**Explanation and Notes:**
-
-1.  **Title:** Used the project name "Sales Copilot".
-2.  **Badges:** Included an MIT License badge linked to the standard MIT license page.
-3.  **Summary:** Used the provided project description.
-4.  **Key Features:** Formatted the features as a bulleted list.
-5.  **Technologies Used:** Listed the technologies with shields.io icons where available/appropriate. Added text for specific tools like Serper and ScrapeWebsiteTool.
-6.  **Installation & Setup:** Provided clear, step-by-step instructions using bash code blocks, including the crucial `.env` file setup.
-7.  **Usage:** Explained how to run the application and interact with it, including the command in a code block.
-8.  **Screenshots & Demo:** Embedded the provided images using Markdown syntax (`![Alt text](URL?raw=true)`). Added descriptions below each image. Included a link to the demo video. *Note:* Direct video embedding in READMEs is limited; a link or a linked thumbnail is the standard approach. I've added a text link and noted the file needs downloading. You could potentially create a GIF preview if desired.
-9.  **Contributing:** Added standard contribution guidelines.
-10. **License:** Stated the license type (MIT) and linked the badge.
-11. **Repository Link:** Included a clear, clickable link to the provided GitHub repository URL.
-12. **Formatting:** Used Markdown headings, lists, code blocks, and emojis for better readability and structure, following the requested format. Added `?raw=true` to GitHub image blob URLs so they render correctly.
-
-This README should provide a comprehensive and professional overview of your Sales Copilot project on GitHub.
