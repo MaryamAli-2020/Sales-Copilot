@@ -1,12 +1,13 @@
 # Sales Copilot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)\
+[![Website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome)](https://app.relevanceai.com/agents/d7b62b/330f80d1c01d-4a7b-89fc-d8291875a50c/bee88f98-83a1-4b73-bad6-397962819ce3/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%233c387a&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false)
 
 ## ?? Summary
 
 Sales Copilot is an innovative AI-powered tool designed to streamline the sales process. It leverages CrewAI agents to automate tasks like lead research, email drafting, and sales strategy generation, helping sales teams close deals faster and more efficiently.
 
-## ? Key Features
+## ?? Key Features
 
 -   Automated lead research using custom tools (SerperDevTool, ScrapeWebsiteTool).
 -   Personalized email drafting based on lead data and sales context.
